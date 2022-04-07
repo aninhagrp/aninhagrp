@@ -1,6 +1,6 @@
 # sobre mim
 
-- 👋 Hi, I’m @aninhagrp
+- 👋 Hi, I’m #@aninhagrp#
 - 👀 I’m interested in aprender a programar novas linguagens
 - 🌱 eu estou apredendo a programar  
 - 💞️ I’m looking to collaborate on ...
